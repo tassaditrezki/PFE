@@ -136,9 +136,6 @@ class myTemped(chunked.Chunked):
 
 
 ###اوائل القرن
-        
-        if previous in (u'من', u'في') and word in tconst.ORDINAL2 :
-           return True
 
 
 
